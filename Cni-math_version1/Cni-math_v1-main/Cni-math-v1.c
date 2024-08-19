@@ -8,7 +8,7 @@ int main ()
   int m,q;
   int a, b, c;
   int n, choice;
-  int matrix1[n][n], matrix2[n][n], result[n][n];
+  int matrix1[n][n], matrix2[n][n],         result[n][n];
   float x, y, z;
   int choie;
   double angle;
@@ -19,7 +19,7 @@ int main ()
   scanf ("%d", &m);
   switch (m)
 	{
-	case 1: ///simple
+	case 1: ///simple mode
 	  {
       printf("\nWelcome to simple mode\n");
 		printf ("Enter 2 numbers for the operations\n");
