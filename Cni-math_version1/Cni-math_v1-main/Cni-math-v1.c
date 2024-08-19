@@ -56,7 +56,7 @@ int main ()
         
       break;
 	  }
-	case 2: //matrix
+	case 2: //matrix mode
 	  {
 		printf ("\nWelcome to matrix mode\n");
 		printf ("Enter the size of the matrices (nxn): ");
