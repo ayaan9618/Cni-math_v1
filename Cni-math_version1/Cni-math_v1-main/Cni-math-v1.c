@@ -12,6 +12,7 @@ int main ()
   float x, y, z;
   int choie;
   double angle;
+//welcoming user
   
   printf ("Welcome to scientific calculator Calcumate_v1 \n");
   start:
