@@ -1,4 +1,4 @@
-Cni_math_v1: A Multi-Mode Scientific Calculator in C (by Ayaan.viper)
+### Cni_math_v1: A Multi-Mode Scientific Calculator in C (by Ayaan.viper)
 
 **Description:**
 
