@@ -1,6 +1,6 @@
 Cni_math_v1: A Multi-Mode Scientific Calculator in C (by Ayaan.viper)
 
-Description:
+Description
 
 Cni_math_v1 is a powerful scientific calculator written in simple basic C, providing a rich set of mathematical functions through distinct modes:
 
