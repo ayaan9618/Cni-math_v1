@@ -6,7 +6,7 @@ Cni_math_v1 is a powerful scientific calculator written in simple basic C, provi
 
 
 
-Modes:
+**Modes:**
 
 Simple Calculations: Execute fundamental arithmetic operations (+, -, *, /) on numbers.
 Matrix Calculations: Create, manipulate, and solve matrix equations.
